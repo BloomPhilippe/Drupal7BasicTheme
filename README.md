@@ -9,7 +9,7 @@ git clone https://github.com/BloomPhilippe/decoboots.git
 
 ## Step 2 :
 
-Placer le dossier 'decoboots' dans nom_du_projet/sites/all/themes
+Placer le dossier 'decoboots' dans nom_du_projet/sites/all/custom/themes
 
 ## Step 3 :
 
