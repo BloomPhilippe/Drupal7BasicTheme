@@ -1,5 +1,6 @@
 # decoboots
-Theme Drupal with Bootstrap Sass
+## Theme Drupal with Bootstrap Sass
+
 Thème de base Drupal 7 incluant Bootstrap SASS et un fichier Gulp
 
 ## Step 1 :
